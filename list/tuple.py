@@ -1,0 +1,6 @@
+a=("harry",1,5,6,False,56)
+print(a)
+no = a.count(5)
+print(no)
+i=a.index("harry")
+print(i)
